@@ -1,0 +1,11 @@
+.box-dash {
+  border: '1px dashed #fff';
+}
+
+.emptyCart {
+  padding: '40px';
+}
+
+.accentColor {
+  color: #2fda7f;
+}
